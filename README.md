@@ -23,4 +23,4 @@ Stay tuned for the best encryption and security tutorials!
 
 ## 📫 Connect with us
 
-- YouTube Channel: [RAT3X](https://www.youtube.com/channel/UCwOfyXQ6mb6S4l4fFWr2Xtw)
+- YouTube Channel: [Rat3x](https://www.youtube.com/channel/UCd-o-FVi2RjSde3m9W7Id5Q)
