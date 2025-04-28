@@ -4,9 +4,9 @@
 
 ## 📺 Watch Our Video
 
-[![Watch on YouTube](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=qdSvkrfcmVo&ab_channel=RAT3X)
+[![Watch the video](https://img.youtube.com/vi/qdSvkrfcmVo/hqdefault.jpg)](https://www.youtube.com/watch?v=qdSvkrfcmVo)
 
-Click the thumbnail to watch the full video!
+Click the thumbnail above to watch the full video on YouTube!
 
 ---
 
@@ -23,4 +23,4 @@ Stay tuned for the best encryption and security tutorials!
 
 ## 📫 Connect with us
 
-- YouTube Channel: [Rat3x](https://www.youtube.com/channel/Rat3x634)
+- YouTube Channel: [RAT3X](https://www.youtube.com/channel/UCwOfyXQ6mb6S4l4fFWr2Xtw)
