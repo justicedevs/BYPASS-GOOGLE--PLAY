@@ -4,7 +4,7 @@
 
 ## 📺 Watch Our Video
 
-[![Watch the video](https://img.youtube.com/vi/oj21pOGJcBg/0.jpg)](https://www.youtube.com/watch?v=oj21pOGJcBg)
+[![Watch the video](https://img.youtube.com/vi/oj21pOGJcBg/0.jpg)](https://www.youtube.com/watch?v=qGBvfR1si54&ab)
 
 Click the thumbnail above to watch the full video on YouTube!
 
